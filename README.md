@@ -1,4 +1,4 @@
-🖥️ Project Title: Deadlock Detection Using Resource Allocation Graph (RAG)
+🖥️ Project Title: Deadlock Detection Using Resource Allocation Graph (RAG) 
 📘 Project Description:
 This project implements a Resource Allocation Graph (RAG) to simulate and analyze how an operating system handles resource allocation among processes. RAG is a graphical representation used to detect potential deadlocks in a system where multiple processes compete for limited resources.
  
