@@ -17,7 +17,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anandsavarn.vercel.app-00C896?style=for-the-badge)](https://anandsavarn.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Anandsavran-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavran)
+[![GitHub](https://img.shields.io/badge/GitHub-Anandsavran-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavarn)
 
 </div>
 
@@ -310,7 +310,7 @@ Lovely Professional University, Punjab
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-anandsavarn.vercel.app-00C896?style=for-the-badge)](https://anandsavarn.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Anandsavran-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavran)
+[![GitHub](https://img.shields.io/badge/GitHub-Anandsavarn-181717?style=for-the-badge&logo=github)](https://github.com/Anandsavarn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
 
 <br/>
